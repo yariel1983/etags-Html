@@ -1,0 +1,56 @@
+h1{
+    text-align: center;
+    font-size: 40px;
+    margin-bottom: 50px;
+}
+h3{
+  text-align: center; 
+  font-size: 20px;
+}
+.vl {
+  border-left: 1px solid black;
+  height: 1230px;
+  display: block !important;
+}
+   #test{
+    margin: 0 auto;
+    float: none;
+    position: relative;
+    top:40%;
+    
+}
+
+#button1{
+    width: 60%;
+    margin: 0 auto;
+    float: none;
+    position: relative;
+    top:20%;
+}
+
+#button2{
+    width: 60%;
+    margin: 0 auto;
+    float: none;
+    position: relative;
+    top:30%;
+}
+
+#img1{
+  width: 30%;
+    margin: 0 auto;
+    float: none;
+    position: relative;
+    margin-left: 180px;
+    margin-bottom: 30px;
+    
+}
+
+#img2{
+    width: 50%;
+      margin: 0 auto;
+      float: none;
+      position: relative;
+      margin-left: 110px;
+      margin-bottom: 30px;
+  }
